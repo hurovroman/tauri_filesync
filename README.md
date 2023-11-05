@@ -2,7 +2,7 @@
 
 
 
-![screenshot](screenshots/home-light.png)
+![screenshot](screenshots/home-dark.png)
 
 ## Table of Contents
 
@@ -30,14 +30,6 @@ To run the application in development, you'll need the following dependencies:
 In addition, this project uses Tauri v1.3, see [prerequisite](https://tauri.app/v1/guides/getting-started/prerequisites/) for your operating system.
 
 Once you have the dependencies installed, clone the project and install the required packages:
-
-```sh
-git clone https://github.com/opeolluwa/wi-share.git wi-share
-cd wi-share # navigate to the cloned directory
-yarn install # install the dependencies
-yarn tauri dev # run the application locally
-
-```
 
 ## Technology Stack
 
