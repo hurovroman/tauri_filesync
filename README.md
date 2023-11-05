@@ -56,19 +56,6 @@ WiShare is built primarily on the following technologies
 - [ ] add walkthrough after installation
 - [ ] build an executable for Window
 
-## Acknowledgements
-
-- [Linux Wifi Hotspot](https://awesomeopensource.com/project/elangosundar/awesome-README-templateshttps://github.com/lakinduakash/linux-wifi-hotspot)
-- [File Streaming](https://github.com/tokio-rs/axum/tree/main/examples/stream-to-file)
-
-## Contributing
-
-Contributions are always welcome!
-
-See [contributing.md](./CONTRIBUTING.md) for ways to get started.
-
-Please adhere to this project's [code of conduct](CODE_OF_CONDUCT.md).
-
 ## License
 
 This project is distributed under the [MIT License](./LICENSE)
